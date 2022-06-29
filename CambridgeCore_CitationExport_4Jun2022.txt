@@ -1,0 +1,1 @@
+@book{sarpeshkar_2010, place={Cambridge}, title={Ultra Low Power Bioelectronics: Fundamentals, Biomedical Applications, and Bio-Inspired Systems}, DOI={10.1017/CBO9780511841446}, publisher={Cambridge University Press}, author={Sarpeshkar, Rahul}, year={2010}}

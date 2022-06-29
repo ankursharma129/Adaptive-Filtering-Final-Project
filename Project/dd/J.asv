@@ -1,0 +1,6 @@
+function y = J(w)
+    disp(w)
+    w0 = [-2, 2].';
+    A = eye(2);
+    y = dot(dot((w-w0).',A),(w-w0));
+end
